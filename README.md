@@ -1,6 +1,8 @@
 **Descargar la versión de magento 2**
 
-```composer create-project --repository-url=https://repo.magento.com/ magento/project-community-edition=2.4.5-p6```
+```
+composer create-project --repository-url=https://repo.magento.com/ magento/project-community-edition=2.4.5-p6
+```
 
 **Asignar los permisos de carpetas y sub carpetas**
 
